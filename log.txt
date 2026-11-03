@@ -1,0 +1,42 @@
+﻿commit d5af152e5c4763cda18b1514d014497816a2f947
+Merge: c79c74a 7a74fa3
+Author: ethanlam101 <lamethan204@gmail.com>
+Date:   Mon Nov 2 22:01:59 2026 -0800
+
+    step 4
+
+commit c79c74aee69b6b0721a934d6d7f363c8a3169a31
+Author: ethanlam101 <lamethan204@gmail.com>
+Date:   Mon Nov 2 21:56:00 2026 -0800
+
+    step 4
+
+commit 7a74fa3d742d49da08c8e590f0212eeb19d7c3c9
+Author: j2nnifer <jekuei@ucsd.edu>
+Date:   Mon Nov 2 21:54:32 2026 -0800
+
+    step 3
+
+commit 630a9ed5f5f4aa5867911d27c016b752f9841c7c
+Author: Ethan Lam <117681880+ethanlam101@users.noreply.github.com>
+Date:   Mon Nov 2 21:50:02 2026 -0800
+
+    Add .DS_Store and .ipynb_checkpoints to .gitignore
+
+commit ae3377734751d30083ded8146c18fb60a90e3e07
+Author: Ethan Lam <117681880+ethanlam101@users.noreply.github.com>
+Date:   Mon Nov 2 21:49:09 2026 -0800
+
+    Add files via upload
+
+commit d6f87b5f4a92cd9522b126b464f3cb95cff58067
+Author: Ethan Lam <117681880+ethanlam101@users.noreply.github.com>
+Date:   Mon Nov 2 21:48:50 2026 -0800
+
+    Add author name to README
+
+commit 73bb3555ed4317f9cff362f17acb5520981ae9b6
+Author: Ethan Lam <117681880+ethanlam101@users.noreply.github.com>
+Date:   Mon Nov 2 21:48:27 2026 -0800
+
+    Initial commit
